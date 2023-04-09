@@ -1,2 +1,2 @@
 # payload
-Generated payload for android and windows.
+Generated payload for Android, Linux and Windows using Metasploit framework.
